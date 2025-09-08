@@ -1,0 +1,81 @@
+# btop theme: Jungle Vibe (Enhanced Visibility)
+# by Gemini
+
+# Colors should be in 6 character hexadecimal format: "#RRGGBB"
+
+# --- Main Colors ---
+# Main background, a deep jungle green
+theme[main_bg]="#1e2d24"
+
+# Main text color, brightened for readability
+theme[main_fg]="#dcdcdc"
+
+# Title color for boxes, a vibrant, standout lime green
+theme[title]="#76ff03"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#76ff03"
+
+# Background color of selected items, a contrasting dark green
+theme[selected_bg]="#3a553a"
+
+# Foreground color of selected items, the standout lime green
+theme[selected_fg]="#76ff03"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#4a4a4a"
+
+# Color of text appearing on top of graphs, matches main text
+theme[graph_text]="#dcdcdc"
+
+# Misc colors for processes box (tree-view lines)
+theme[proc_misc]="#8f9a8a"
+
+# --- Box Outlines ---
+# Consistent earthy brown for all box outlines
+theme[cpu_box]="#8c6d62"
+theme[mem_box]="#8c6d62"
+theme[net_box]="#8c6d62"
+theme[proc_box]="#8c6d62"
+theme[div_line]="#8c6d62"
+
+# --- Graphs and Meters ---
+# Temperature graph: cool to warm
+theme[temp_start]="#77838c"
+theme[temp_mid]=""
+theme[temp_end]="#8c7a7f"
+
+# CPU graph: a gradient from lush green to vibrant lime
+theme[cpu_start]="#4a6734"
+theme[cpu_mid]="#6a8759"
+theme[cpu_end]="#76ff03"
+
+# Mem/Disk free meter: ramps up to the vibrant lime green
+theme[free_start]="#6a8759"
+theme[free_mid]=""
+theme[free_end]="#76ff03"
+
+# Mem/Disk cached meter: cool blue-grey
+theme[cached_start]="#77838c"
+theme[cached_mid]=""
+theme[cached_end]="#8d9aa1"
+
+# Mem/Disk available meter: a soft tan
+theme[available_start]="#bdae93"
+theme[available_mid]=""
+theme[available_end]="#d4c6a9"
+
+# Mem/Disk used meter: earthy brown
+theme[used_start]="#5d412c"
+theme[used_mid]=""
+theme[used_end]="#8c6d62"
+
+# Download graph: a gradient of greys
+theme[download_start]="#77838c"
+theme[download_mid]=""
+theme[download_end]="#aab1a5"
+
+# Upload graph: a gradient of earthy browns
+theme[upload_start]="#5d412c"
+theme[upload_mid]=""
+theme[upload_end]="#8c6d62"
