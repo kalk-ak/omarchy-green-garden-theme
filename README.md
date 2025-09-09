@@ -20,3 +20,7 @@ Simply copy the repository URL and use the `omarchy-theme-install` command:
 
 ```bash
 omarchy-theme-install [https://github.com/YOUR_USERNAME/green-garden-theme](https://github.com/YOUR_USERNAME/green-garden-theme)
+
+
+🖼️ Available Backgrounds
+This theme includes several nature-inspired backgrounds to complete your desktop setup. Choose your favorite from the options below.
