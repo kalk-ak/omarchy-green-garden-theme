@@ -25,18 +25,6 @@ omarchy-theme-install [https://github.com/YOUR_USERNAME/green-garden-theme](http
 
 
 ## 🖼️ Available Backgrounds
-Choose your favorite from the options below.
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://via.placeholder.com/400x200" alt="Image 1" style="width: 45%;">
-  <img src="https://via.placeholder.com/400x200" alt="Image 2" style="width: 45%;">
-  <img src="https://via.placeholder.com/400x200" alt="Image 3" style="width: 45%;">
-  <img src="https://via.placeholder.com/400x200" alt="Image 4" style="width: 45%;">
-</div>
+Enjoy your favorite vibe from the options below.
 
-![Image 1](https://raw.githubusercontent.com/kalk-ak/Stash/master/Omarchy-Green-Garden-Images/omarchy-lush-green.png)
-
-![Image 2](https://raw.githubusercontent.com/kalk-ak/Stash/master/Omarchy-Green-Garden-Images/omarchy-lush-green.png)
-
-![Image 3](https://raw.githubusercontent.com/kalk-ak/Stash/master/Omarchy-Green-Garden-Images/omarchy-lush-green.png)
-
-![Image 4](https://raw.githubusercontent.com/kalk-ak/Stash/master/Omarchy-Green-Garden-Images/omarchy-lush-green.png)
+![Green Garden Theme Screenshot](https://raw.githubusercontent.com/kalk-ak/Stash/master/Omarchy-Green-Garden-Images/backgroun.png)
