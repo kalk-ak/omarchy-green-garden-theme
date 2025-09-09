@@ -7,7 +7,7 @@ A fresh and calming theme for Omarchy-Hyprland inspired by nature. **Green Garde
 
 ## 🌿 About the Theme
 
-This theme was inspired by the default lock screen of Genome Fedora Linux. **Green Garden** is designed to provide a calming and focused environment for work and play. The theme features a palette of rich greens, warm earth tones, and clean, high-contrast text, ensuring everything from your terminal to your Waybar is as beautiful as it is functional.
+**Green Garden** was inspired by the default lock screen of Genome Fedora Linux. It is designed to provide a calming and focused environment for work and good vibes. The theme features a palette of rich greens, warm earth tones, and clean, high-contrast pictures.
 
 
 ## 📥 Installation
