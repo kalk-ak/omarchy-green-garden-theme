@@ -3,7 +3,7 @@
 A fresh and calming theme for Omarchy-Hyprland inspired by nature. **Green Garden** brings a vibrant yet soothing feel to your desktop. Let me know what you think—your feedback is welcome and appreciated! 
 
 
-![Green Garden Theme Screenshot](https://raw.githubusercontent.com/kalk-ak/Stash/Omarchy-Green-Garden-Images/omarchy-lush-green.png)
+![Green Garden Theme Screenshot](https://raw.githubusercontent.com/kalk-ak/Stash/master/Omarchy-Green-Garden-Images/omarchy-lush-green.png)
 
 ## 🌿 About the Theme
 
