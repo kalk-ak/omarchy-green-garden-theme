@@ -25,6 +25,6 @@ omarchy-theme-install https://github.com/kalk-ak/omarchy-Green-Garden-theme.git
 
 
 ## 🖼️ Available Backgrounds
-Enjoy your favorite vibe from the options below.
+Enjoy the vibe that zincs the most.
 
 ![Green Garden Theme Screenshot](https://raw.githubusercontent.com/kalk-ak/Stash/master/Omarchy-Green-Garden-Images/background.png)
