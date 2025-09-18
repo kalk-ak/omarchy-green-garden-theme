@@ -1,24 +1,37 @@
+[window]
+# This section is optional but recommended for a complete look.
+decorations = "full"
+opacity = 0.9
+
 [colors]
-[colors.primary]
-background = "0x1e2d24"
-foreground = "0xcecebf"
+# Primary colors
+primary.background = "#181e19"
+primary.foreground = "#e4d8b4"
 
-[colors.normal]
-black = "0x5c5c5c"
-red = "0xcc6666"
-green = "0xb8bb26"
-yellow = "0xfabd2f"
-blue = "0x83a598"
-magenta = "0xd3869b"
-cyan = "0x8ec07c"
-white = "0xcecebf"
+# Cursor colors
+cursor.cursor = "#e4d8b4"
+cursor.text = "#181e19"
 
-[colors.bright]
-black = "0x928374"
-red = "0xfb4934"
-green = "0xb8bb26"
-yellow = "0xfabd2f"
-blue = "0x83a598"
-magenta = "0xd3869b"
-cyan = "0x8ec07c"
-white = "0xe5e5d5"
+# Selection colors
+selection.background = "#4a544b"
+selection.text = "#f2eadc"
+
+# Normal colors
+normal.black = "#262d24"
+normal.red = "#c45b5b"
+normal.green = "#7e9c58"
+normal.yellow = "#d29c5a"
+normal.blue = "#65a0d9"
+normal.magenta = "#d6885e"
+normal.cyan = "#89d9d0"
+normal.white = "#e4d8b4"
+
+# Bright colors
+bright.black = "#4a544b"
+bright.red = "#d87070"
+bright.green = "#87c783"
+bright.yellow = "#e6b570"
+bright.blue = "#80c4e8"
+bright.magenta = "#e8a278"
+bright.cyan = "#95e6da"
+bright.white = "#f2eadc"
