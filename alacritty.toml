@@ -1,23 +1,22 @@
 [window]
 # This section is optional but recommended for a complete look.
 decorations = "full"
-opacity = 0.9
 
 [colors]
 # Primary colors
-primary.background = "#181e19"
+primary.background = "#1d271f" # Changed from #181e19
 primary.foreground = "#e4d8b4"
 
 # Cursor colors
 cursor.cursor = "#e4d8b4"
-cursor.text = "#181e19"
+cursor.text = "#1d271f"   # Changed from #181e19
 
 # Selection colors
-selection.background = "#4a544b"
+selection.background = "#505b51" # Changed from #4a544b
 selection.text = "#f2eadc"
 
 # Normal colors
-normal.black = "#262d24"
+normal.black = "#293427"   # Changed from #262d24
 normal.red = "#c45b5b"
 normal.green = "#7e9c58"
 normal.yellow = "#d29c5a"
@@ -27,11 +26,4 @@ normal.cyan = "#89d9d0"
 normal.white = "#e4d8b4"
 
 # Bright colors
-bright.black = "#4a544b"
-bright.red = "#d87070"
-bright.green = "#87c783"
-bright.yellow = "#e6b570"
-bright.blue = "#80c4e8"
-bright.magenta = "#e8a278"
-bright.cyan = "#95e6da"
-bright.white = "#f2eadc"
+bright.black = "#505b51"
