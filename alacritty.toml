@@ -1,7 +1,7 @@
 [colors]
 [colors.primary]
 background = "0x1e2d24"
-foreground = "0xe5e5d5"
+foreground = "0xcecebf"
 
 [colors.normal]
 black = "0x5c5c5c"
@@ -11,7 +11,7 @@ yellow = "0xfabd2f"
 blue = "0x83a598"
 magenta = "0xd3869b"
 cyan = "0x8ec07c"
-white = "0xe5e5d5"
+white = "0xcecebf"
 
 [colors.bright]
 black = "0x928374"
@@ -21,4 +21,4 @@ yellow = "0xfabd2f"
 blue = "0x83a598"
 magenta = "0xd3869b"
 cyan = "0x8ec07c"
-white = "0xfbf1c7"
+white = "0xe5e5d5"
