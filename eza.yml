@@ -1,0 +1,31 @@
+colors:
+  # Permissions
+  read: "green"
+  write: "yellow"
+  exec: "red"
+  no_perms: "gray" # For the '-' characters in permissions
+
+  # File sizes
+  size:
+    value: "green"
+    unit: "green"
+
+  # User and Group
+  user: "default"
+  group: "default"
+
+  # Timestamps
+  date: "default"
+
+  # File types
+  directory: "blue,bold" # Makes directory names and the 'd' in permissions blue and bold
+  symlink: "cyan" # A sensible default for symbolic links
+  pipe: "yellow"
+  socket: "magenta"
+
+# Specific styling for file names using glob patterns
+# This section will give README.md its unique yellow background
+file_name:
+  "README.md": "on_yellow"
+  "README.txt": "on_yellow"
+  "README": "on_yellow"
