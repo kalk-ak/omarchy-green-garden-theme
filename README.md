@@ -19,7 +19,7 @@ Installation is simple and can be done directly from the Omarchy menu.
 Simply copy the repository URL and use the `omarchy-theme-install` command or paste the following command inside your prefered terminal.
 
 ```bash
-omarchy-theme-install https://github.com/kalk-ak/omarchy-green-garden-theme
+omarchy-theme-install https://github.com/kalk-ak/omarchy-green-garden-theme.git
 ```
 
 
